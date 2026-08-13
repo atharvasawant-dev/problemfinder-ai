@@ -46,3 +46,36 @@ npm run dev
 ```
 
 Then open the local URL Vercel prints.
+
+## Overview
+
+problemfinder-ai is a HTML repository focused on practical, maintainable project work.
+
+## Setup
+
+```bash
+npm install
+```
+
+
+## Tech Stack
+
+- Primary language: HTML
+- Node.js package scripts and dependency management
+
+## Usage
+
+Use the repository-specific entry point documented in the source files.
+
+
+## Architecture
+
+The repository should keep implementation files, documentation, examples, and validation scripts in predictable locations.
+
+## Validation
+
+Run the repository-specific validation steps before merging changes.
+
+## Maintenance
+
+Last documentation review: 2026-08-13. Keep this README aligned with the current setup, usage, and repository structure.
