@@ -79,3 +79,7 @@ Run the repository-specific validation steps before merging changes.
 ## Maintenance
 
 Last documentation review: 2026-08-13. Keep this README aligned with the current setup, usage, and repository structure.
+
+## Maintenance
+
+Last documentation review: 2026-08-18. Keep this README aligned with the current setup, usage, and repository structure.
